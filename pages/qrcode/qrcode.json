@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的二维码",
+  "usingComponents": {
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode"
+  }
+}
